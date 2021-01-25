@@ -57,3 +57,13 @@ Paul Graham[4], in one of his articles, says that a start-up is meant to be agil
 ![Screenshot (117)](https://user-images.githubusercontent.com/50464305/105667953-64c2e680-5f02-11eb-879e-bc1f94c4f260.png)
 ![Screenshot (118)](https://user-images.githubusercontent.com/50464305/105667978-6e4c4e80-5f02-11eb-84ec-9f93eb6023cf.png)
 ![Screenshot (119)](https://user-images.githubusercontent.com/50464305/105667982-70aea880-5f02-11eb-9d76-6dbdd64810ed.png)
+
+
+
+The data collected will be tabulated and analysed using statistical software.  
+REFERENCES:
+[1] Surbhi Jain, ‘Growth of start-up ecosystems in India’
+[2] Dr. Gopaldas Pawan Kumar, ‘Indian start-ups, issues, challenges and opportunities’
+[3] Dr. Sunanda, ‘How to start and manage start-up companies in India’
+[4] Paul Graham, ‘How to fund a start-up’
+
